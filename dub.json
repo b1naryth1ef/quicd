@@ -1,0 +1,11 @@
+{
+	"name": "quicd",
+	"targetType": "library",
+	"dependencies": {},
+	"buildTypes": {
+    "unittest": {
+      "buildOptions": ["unittests", "debugMode", "debugInfo"],
+      "versions": ["SANITY_CHECKS"]
+    }
+  }
+}
